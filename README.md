@@ -1,1 +1,1 @@
-# Um site simples de noticias usando Html e Css
+# Um site simples de noticias usando Html e Css, aos poucos irei atualizando
