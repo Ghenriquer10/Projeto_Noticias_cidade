@@ -1,1 +1,1 @@
-# Projeto_noticias_cidade
+# Um site simples de noticias usando Html e Css
